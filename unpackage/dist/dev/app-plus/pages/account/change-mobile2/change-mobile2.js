@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"title { font-size: ",[0,36],"; }\n.",[1],"text-phone { font-size: ",[0,50],"; }\n.",[1],"content { height: ",[0,400],"; }\n",],undefined,{path:"./pages/account/change-mobile2/change-mobile2.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/account/change-mobile2/change-mobile2.wxml') } }));

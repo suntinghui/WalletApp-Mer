@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"cny-input{ font-size: ; }\n.",[1],"text-cny{ font-size: 36px; }\n",],undefined,{path:"./pages/huabei/repayment/repayment.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/huabei/repayment/repayment.wxml') } }));

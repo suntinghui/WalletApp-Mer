@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"full-screen { width: 100%; height: 100%; display: block; background-color: #FFFFFF; position: absolute; left: 0; right: 0; bottom: 0; top: 0; }\n",],undefined,{path:"./pages/home/transferSuccess/transferSuccess.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/home/transferSuccess/transferSuccess.wxml') } }));

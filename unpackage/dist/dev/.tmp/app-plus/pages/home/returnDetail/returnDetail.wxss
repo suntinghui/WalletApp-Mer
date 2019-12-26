@@ -1,0 +1,14 @@
+
+.text-price {
+	font-size: 80rpx;
+}
+.pass-input {
+	border: 1px solid #ddd;
+	width: 40px;
+	height: 40px;
+}
+.cu-dialog {
+	vertical-align: auto;
+	top: 0;
+}
+

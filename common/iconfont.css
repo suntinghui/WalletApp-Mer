@@ -1,0 +1,39 @@
+@font-face {font-family: "iconfont";
+  src: 
+  url('static/fonts/iconfont.ttf?t=1565934070958') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('static/fonts/iconfont.svg?t=1565934070958#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconsaoyisao:before {
+  content: "\e629";
+}
+
+.iconfukuanma:before {
+  content: "\e639";
+}
+
+.iconshangjia:before {
+  content: "\e61b";
+}
+
+.iconshoukuan1:before {
+  content: "\e628";
+}
+
+.iconyinhangqia:before {
+  content: "\e622";
+}
+
+.iconzhangdan:before {
+  content: "\e653";
+}
+
+

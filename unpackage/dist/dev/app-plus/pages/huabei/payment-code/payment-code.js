@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"select-payment{ padding: 10px 0; }\n",],undefined,{path:"./pages/huabei/payment-code/payment-code.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/huabei/payment-code/payment-code.wxml') } }));

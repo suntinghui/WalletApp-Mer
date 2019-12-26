@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"pay-modal { width: ",[0,550],"; background: #fff; }\n.",[1],"pay-modal-pwd { width: 100%; margin-top: 15px; }\n",],undefined,{path:"./pages/home/payaction/paydynamic.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/home/payaction/paydynamic.wxml') } }));

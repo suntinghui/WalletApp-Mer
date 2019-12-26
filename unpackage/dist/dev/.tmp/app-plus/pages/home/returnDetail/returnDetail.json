@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "退货详情",
+  "usingComponents": {
+    "best-payment-password": "/components/best-payment-password/best-payment-password"
+  }
+}

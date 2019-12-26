@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "手势密码支付",
+  "usingComponents": {
+    "mpvue-gesture-lock": "/components/mpvueGestureLock/index"
+  }
+}

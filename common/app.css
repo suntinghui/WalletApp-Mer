@@ -1,0 +1,49 @@
+/*app.wxss*/
+
+page {
+	background: #f6f6f6;
+	font-size: 32rpx;
+}
+
+
+/*自定义*/
+.bg-primary{
+	background: #2F54EB;
+}
+.text-center{
+	text-align: center;
+}
+.text-primary{
+	color: #2F54EB;
+}
+.text-gray{
+	color: #9F9F9F;
+}
+.text-danger{
+	color: #FF0907;
+}
+.text-white{
+	color: #fff;
+}
+.text-success{
+	color:#4AF2A1;
+}
+.m-t-10{
+	margin-top: 10px;
+}
+
+.font-bold{
+	font-weight: bold;
+}
+.padding{
+	padding: 20px;
+}
+
+.cu-list.menu-avatar>.cu-item:after, .cu-list.menu>.cu-item:after{
+	border-bottom:1px solid #f1f1f1;
+}
+.cu-list.menu-avatar>.cu-item .action{
+	width: 80px;
+	text-align: right;
+	padding-right: 10px;
+}

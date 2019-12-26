@@ -1,0 +1,11 @@
+
+.title {
+	font-size: 36rpx;
+}
+.text-phone {
+	font-size: 50rpx;
+}
+.content {
+	height: 400rpx;
+}
+

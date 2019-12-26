@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"amount { font-size: ",[0,60],"; font-weight: bold; padding: 10px 0; }\n.",[1],"bg-title { background: #f60; }\n",],undefined,{path:"./pages/tabBar/huabei/huabei.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/tabBar/huabei/huabei.wxml') } }));

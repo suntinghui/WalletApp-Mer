@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"text-price { font-size: ",[0,80],"; }\n.",[1],"pass-input { border: 1px solid #ddd; width: 40px; height: 40px; }\n.",[1],"cu-dialog { vertical-align: auto; top: 0; }\n",],undefined,{path:"./pages/home/returnDetail/returnDetail.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/home/returnDetail/returnDetail.wxml') } }));

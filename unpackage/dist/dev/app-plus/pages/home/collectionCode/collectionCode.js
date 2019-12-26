@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\nbody { background: #f60 !important; }\n.",[1],"title { font-size: ",[0,60],"; }\n.",[1],"text-theme { color: #f60 !important; }\n",],undefined,{path:"./pages/home/collectionCode/collectionCode.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/home/collectionCode/collectionCode.wxml') } }));

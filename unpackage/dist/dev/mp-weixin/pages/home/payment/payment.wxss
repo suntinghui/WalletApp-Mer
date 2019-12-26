@@ -1,0 +1,8 @@
+
+.select-payment {
+	padding: 10px 0;
+}
+.qrimg {
+	margin-top: 30rpx;
+}
+

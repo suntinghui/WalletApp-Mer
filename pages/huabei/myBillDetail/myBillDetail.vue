@@ -1,0 +1,83 @@
+<template>
+	<view>
+		<view class="padding text-center bg-white">
+			<view class="text-center flex justify-center">
+				<image src="../../../static/60x60.png" style="width: 46rpx;" mode="widthFix"></image>
+				<text class="padding-left-xs"> 百度平台商家</text>
+			</view>
+			<view class="padding">
+				<text class="text-price">80.00</text>
+			</view>
+			<view>交易成功</view>
+		</view>
+		<view class="cu-list menu sm-border">
+			<view class="cu-item">
+				<view class="content">
+					<text class="text-grey">付款方式</text>
+				</view>
+				<view class="action">
+					<text class="text-grey">花呗</text>
+				</view>
+			</view>
+			<view class="cu-item">
+				<view class="content">
+					<text class="text-grey">积分奖励</text>
+				</view>
+				<view class="action">
+					<text class="text-grey">1积分</text>
+				</view>
+			</view>
+			<view class="cu-item">
+				<view class="content">
+					<text class="text-grey">商品说明</text>
+				</view>
+				<view class="action">
+					<text class="text-grey">百度网盘超级会员</text>
+				</view>
+			</view>
+		</view>
+		<view class="cu-list menu sm-border">
+			<view class="cu-item">
+				<view class="content">
+					<text class="text-grey">创建时间</text>
+				</view>
+				<view class="action">
+					<text class="text-grey">2019-07-10 11：11：23</text>
+				</view>
+			</view>
+			<view class="cu-item">
+				<view class="content">
+					<text class="text-grey">订单号</text>
+				</view>
+				<view class="action">
+					<text class="text-grey">123123123123123</text>
+				</view>
+			</view>
+			<view class="cu-item">
+				<view class="content">
+					<text class="text-grey">商家订单号</text>
+				</view>
+				<view class="action">
+					<text class="text-grey">234234234234</text>
+				</view>
+			</view>
+		</view>
+	</view>
+</template>
+
+<script>
+	export default {
+		data() {
+			return {
+				
+			}
+		},
+		methods: {
+			
+		}
+	}
+</script>
+
+<style>
+
+</style>

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "付款",
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "valid-code": "/components/p-validCode/validCode",
+    "tki-qrcode": "/components/tki-qrcode/tki-qrcode",
+    "tki-barcode": "/components/tki-barcode/tki-barcode"
+  }
+}

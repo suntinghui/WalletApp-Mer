@@ -1,0 +1,8 @@
+
+.result-msg{
+	font-size: 40rpx;
+}
+.reslut-cny{
+	font-size: 46rpx;
+}
+

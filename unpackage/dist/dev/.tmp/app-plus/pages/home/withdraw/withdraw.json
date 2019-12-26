@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "我要提现",
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "valid-code": "/components/p-validCode/validCode"
+  }
+}

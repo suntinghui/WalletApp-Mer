@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "指纹支付",
+  "usingComponents": {
+    "page-head": "/components/page-head"
+  }
+}

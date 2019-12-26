@@ -1,0 +1,320 @@
+{
+	"pages": [
+		// pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/login/login_mer",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path": "pages/login/register",
+			"style": {
+				"navigationBarTitleText": "注册"
+			}
+		},
+		{
+			"path": "pages/login/forget",
+			"style": {
+				"navigationBarTitleText": "找回密码"
+			}
+		},
+		{
+			"path": "pages/tabBar/home/home",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+			"path": "pages/tabBar/huabei/huabei",
+			"style": {
+				"navigationBarTitleText": "花呗"
+			}
+		},
+		{
+			"path": "pages/tabBar/account/account",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		}, {
+			"path": "pages/home/receipt/receipt",
+			"style": {
+				"navigationBarTitleText": "收款"
+			}
+		}, {
+			"path": "pages/home/setAmount/setAmount",
+			"style": {
+				"navigationBarTitleText": "设置金额"
+			}
+		}, {
+			"path": "pages/home/receipt/receipt",
+			"style": {
+				"navigationBarTitleText": "收款"
+			}
+		}, {
+			"path": "pages/home/setAmount/setAmount",
+			"style": {
+				"navigationBarTitleText": "设置金额"
+			}
+		}, {
+			"path": "pages/home/collectionRecord/collectionRecord",
+			"style": {
+				"navigationBarTitleText": "收款纪录"
+			}
+		}, {
+			"path": "pages/home/withdraw/withdraw",
+			"style": {
+				"navigationBarTitleText": "我要提现"
+			}
+		}, {
+			"path": "pages/home/billLists/billLists",
+			"style": {
+				"navigationBarTitleText": "账单",
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/home/payment/payment",
+			"style": {
+				"navigationBarTitleText": "付款"
+			}
+		}, {
+			"path": "pages/home/merchantService/merchantService",
+			"style": {
+				"navigationBarTitleText": "商家服务"
+			}
+		}, {
+			"path": "pages/home/collectionCode/collectionCode",
+			"style": {
+				"navigationBarTitleText": "商户收款码"
+			}
+		}, {
+			"path": "pages/home/returnLists/returnLists",
+			"style": {
+				"navigationBarTitleText": "退货"
+			}
+		}, {
+			"path": "pages/home/returnDetail/returnDetail",
+			"style": {
+				"navigationBarTitleText": "退货详情"
+			}
+		}, {
+			"path": "pages/account/biopayment/biopayment",
+			"style": {
+				"navigationBarTitleText": "生物支付"
+			}
+		}, {
+			"path": "pages/account/feedback/feedback",
+			"style": {
+				"navigationBarTitleText": "意见建议"
+			}
+		}, {
+			"path": "pages/account/fingerprint/fingerprint",
+			"style": {
+				"navigationBarTitleText": "指纹支付"
+			}
+		}, {
+			"path": "pages/account/gesture-lock/gesture-lock",
+			"style": {
+				"navigationBarTitleText": "手势密码支付"
+			}
+		}, {
+			"path": "pages/home/bankCard/bankCard",
+			"style": {
+				"navigationBarTitleText": "银行卡"
+			}
+		}, {
+			"path": "pages/home/bankCardDetail/bankCardDetail",
+			"style": {
+				"navigationBarTitleText": "银行卡详情"
+			}
+		}, {
+			"path": "pages/home/addBankCard-01/addBankCard-01",
+			"style": {
+				"navigationBarTitleText": "添加银行卡"
+			}
+		}, {
+			"path": "pages/home/addBankCard-02/addBankCard-02",
+			"style": {
+				"navigationBarTitleText": "添加银行卡"
+			}
+		}, {
+			"path": "pages/home/addBankCard-03/addBankCard-03",
+			"style": {
+				"navigationBarTitleText": "添加银行卡"
+			}
+		}, {
+			"path": "pages/account/paysetting/paysetting",
+			"style": {
+				"navigationBarTitleText": "支付设置"
+			}
+		}, {
+			"path": "pages/account/change-mobile1/change-mobile1",
+			"style": {
+				"navigationBarTitleText": "更换手机号"
+			}
+		}, {
+			"path": "pages/account/country-code/country-code",
+			"style": {
+				"navigationBarTitleText": "国家地区"
+			}
+		}, {
+			"path": "pages/account/change-mobile2/change-mobile2",
+			"style": {
+				"navigationBarTitleText": "更换手机号"
+			}
+		}, {
+			"path": "pages/account/update-loginpwd/update-loginpwd",
+			"style": {
+				"navigationBarTitleText": "修改登录密码"
+			}
+		}, {
+			"path": "pages/account/update-paypwd/update-paypwd",
+			"style": {
+				"navigationBarTitleText": "修改支付密码"
+			}
+		}, {
+			"path": "pages/huabei/byBill/byBill",
+			"style": {
+				"navigationBarTitleText": "我的账单"
+			}
+		}, {
+			"path": "pages/huabei/quota/quota",
+			"style": {
+				"navigationBarTitleText": "我的额度"
+			}
+		}, {
+			"path": "pages/huabei/quota-detail/quota-detail",
+			"style": {
+				"navigationBarTitleText": "通用额度"
+			}
+		}, {
+			"path": "pages/huabei/myBillDetail/myBillDetail",
+			"style": {
+				"navigationBarTitleText": "账单详情"
+			}
+		}, {
+			"path": "pages/huabei/repayment/repayment",
+			"style": {
+				"navigationBarTitleText": "还款"
+			}
+		}, {
+			"path": "pages/huabei/repment-result/repment-result",
+			"style": {
+				"navigationBarTitleText": "还款结果"
+			}
+		}, {
+			"path": "pages/huabei/staging/staging",
+			"style": {
+				"navigationBarTitleText": "账单分期"
+			}
+		},{
+			"path": "pages/huabei/billLists/billLists",
+			"style": {
+				"navigationBarTitleText": "花呗账单"
+			}
+		}, {
+			"path": "pages/huabei/payment-code/payment-code",
+			"style": {
+				"navigationBarTitleText": "分期码"
+			}
+		}, {
+			"path": "pages/common/webpage",
+			"style": {
+				"navigationBarTitleText": "正在加载"
+			}
+		}, {
+			"path": "pages/common/testUser",
+			"style": {
+				"navigationBarTitleText": "钱包"
+			}
+		}, {
+			"path": "pages/common/testMerchant",
+			"style": {
+				"navigationBarTitleText": "钱包"
+			}
+		}, {
+			"path": "pages/common/testTransfer",
+			"style": {
+				"navigationBarTitleText": "钱包"
+			}
+		}
+	    ,{
+            "path" : "pages/home/balance/balance",
+            "style" : {
+				"navigationBarTitleText": "余额"
+			}
+        }
+        ,{
+            "path" : "pages/home/recharge/recharge",
+            "style" : {
+				"navigationBarTitleText": "充值"
+			}
+        }
+        ,{
+            "path" : "pages/home/payaction/paydynamic",
+            "style" : {
+				"navigationBarTitleText": "付款"
+			}
+        },
+		{
+		    "path" : "pages/home/payaction/paystatic",
+		    "style" : {
+				"navigationBarTitleText": "付款"
+			}
+		}
+        ,{
+            "path" : "pages/home/transferSuccess/transferSuccess",
+            "style" : {
+				"navigationBarTitleText": "交易成功"
+			}
+        }
+        ,{
+            "path" : "pages/home/transferFailure/transferFailure",
+            "style" : {
+				"navigationBarTitleText": "交易失败"
+			}
+        }
+        ,{
+            "path" : "pages/tabBar/mer-home/mer-home",
+            "style" : {
+				"navigationBarTitleText": "钱包"
+			}
+        }
+        ,{
+            "path" : "pages/account/update-userinfo/update-userinfo",
+            "style" : {
+				"navigationBarTitleText": "用户信息"
+			}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "Hello uniapp",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"backgroundColorTop": "#F4F5F6",
+		"backgroundColorBottom": "#F4F5F6",
+		"mp-alipay": {
+			"titleBarColor": "#FFFFFF"
+		}
+	},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#007AFF",
+		"borderStyle": "black",
+		"backgroundColor": "#F8F8F8",
+		"list": [{
+				"pagePath": "pages/tabBar/home/home",
+				"iconPath": "static/tab-home-normal.png",
+				"selectedIconPath": "static/tab-home-active.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/tabBar/mer-home/mer-home",
+				"iconPath": "static/tab-account-normal.png",
+				"selectedIconPath": "static/tab-account-active.png",
+				"text": "收支"
+			}
+		]
+	}
+}

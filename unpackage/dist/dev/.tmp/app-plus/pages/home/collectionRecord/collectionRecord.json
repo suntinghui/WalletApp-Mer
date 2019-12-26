@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "收款纪录",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

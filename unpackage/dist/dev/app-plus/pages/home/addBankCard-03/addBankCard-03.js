@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"text-phone { font-size: ",[0,40],"; }\n",],undefined,{path:"./pages/home/addBankCard-03/addBankCard-03.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/home/addBankCard-03/addBankCard-03.wxml') } }));
