@@ -77,9 +77,15 @@
       },
       {
         "pagePath": "pages/tabBar/mer-home/mer-home",
+        "iconPath": "static/tab-huabei-normal.png",
+        "selectedIconPath": "static/tab-huabei-active.png",
+        "text": "收支"
+      },
+      {
+        "pagePath": "pages/tabBar/account/account",
         "iconPath": "static/tab-account-normal.png",
         "selectedIconPath": "static/tab-account-active.png",
-        "text": "收支"
+        "text": "我的"
       }
     ]
   },

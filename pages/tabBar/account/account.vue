@@ -37,7 +37,7 @@
 					<text class="text-grey">修改支付密码</text>
 				</view>
 			</view>
-			<view class="cu-item arrow" @tap="enterPaysetting">
+			<view class="cu-item arrow" @tap="enterPaysetting" style="display: none;">
 				<view class="content">
 					<image src="/static/icon-zhifushezhi.png" class="png" mode="aspectFit"></image>
 					<text class="text-grey">支付设置</text>
@@ -188,7 +188,7 @@
 						this.logout();
 
 						uni.reLaunch({
-							url: '../../login/login',
+							url: '../../login/login_mer',
 							success() {
 								uni.showToast({
 									title: "已退出登录",
